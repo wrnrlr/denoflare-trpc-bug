@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "@trpc/server": "npm:@trpc/server@^10.45.2"
+  }
+}
